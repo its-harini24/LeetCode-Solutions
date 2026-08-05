@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0877-stone-game](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/its-harini24/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
