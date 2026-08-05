@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/its-harini24/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
+| [1470-shuffle-the-array](https://github.com/its-harini24/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 ## Binary Search
 |  |
 | ------- |
