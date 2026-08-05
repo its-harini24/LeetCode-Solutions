@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
