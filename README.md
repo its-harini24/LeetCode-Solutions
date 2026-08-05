@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0283-move-zeroes](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
