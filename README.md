@@ -106,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/its-harini24/LeetCode-Solutions/tree/master/0595-big-countries) |
+| [1148-article-views-i](https://github.com/its-harini24/LeetCode-Solutions/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
